@@ -1,0 +1,11 @@
+Package: ZESTR
+Type: Package
+Title: Zoological Education in Statistics - Tutorial on R
+Version: 0.1.0
+Author: Hugues Beaufrère, DVM, PhD, DACZM, DABVP(Avian), DECZM(Avian)
+Maintainer: The package maintainer <hbeaufrere@ucdavis.edu>
+Description: Self-taught tutorial on applied computational statistics using R for zoological medicine residents
+License: NA
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
