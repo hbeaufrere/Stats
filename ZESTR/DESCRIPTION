@@ -1,0 +1,12 @@
+Package: ZESTR
+Type: Package
+Title: Zoological and Exotic Statistical Tutorial on R
+Version: 1.0
+Authors@R: person("Hugues Beaufrère, DVM, PhD, DACZM, DABVP(Avian), DECZM(Avian)", email="hbeaufrere@ucdavis.edu",role=c("aut","cre"))
+Maintainer: The package maintainer <hbeaufrere@ucdavis.edu>
+Description: Self-taught tutorial on applied computational statistics using R for zoological medicine residents
+License: NA
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports: learnr, nlme, lme4, survival, survminer, ordinal, ggplot2, ggrepel, emmeans, referenceIntervals, reshape2, binom, pwr, nparcomp, car, mice, pROC, MethComp, epiR, MASS, Matrix, DescTools
